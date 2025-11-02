@@ -1,4 +1,4 @@
-明白，我们进入 **Day 3：开发者实战（C# 实作篇 2/3）**
+我们进入 **Day 3：开发者实战（C# 实作篇 2/3）**
 Today’s theme: **让 MCP Server 更接近真实可对接客户端（ChatGPT / Claude / Cursor）运行的版本**
 
 ---
